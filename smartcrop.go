@@ -29,7 +29,7 @@
 Package smartcrop implements a content aware image cropping library based on
 Jonas Wagner's smartcrop.js https://github.com/jwagner/smartcrop.js
 */
-package smartcrop
+package main
 
 import (
 	"errors"
