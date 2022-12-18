@@ -1,4 +1,4 @@
-package smartcrop
+package main
 
 import (
 	"bytes"
